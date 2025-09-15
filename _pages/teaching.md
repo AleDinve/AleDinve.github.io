@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## Lecturer
+* a.y. 2024/2025
+    * <em>PhD Course “High Dimensional Approximation: From Wavelets to Sparse Polynomials” for the PhD program in Information Engineering and Science (joint teaching with prof. Francesca Pelosi), University of Siena, Siena, Italy (20h.)</em>
 * a.y. 2023/24 
     * <em>“Discrete Mathematics & Theory 2”</em>, CET Academic Programs for Virginia University, Siena, Italy. Teaching (24h.)
 
