@@ -93,6 +93,11 @@ A. Falini, <b>G. A. D'Inverno</b>, M. L. Sampoli, F. Mazzia (2022). Splines Para
 ### Conference Papers
 
 <ul>
+
+<li>
+L. Zhou, D. Solombrino, D. Crisostomi, M. S. Bucarelli, <b>G. A. D’Inverno</b>, F. Silvestri & E. Rodolà. (2025). On Task Vectors and Gradients. In UniReps: 3rd Edition of the Workshop on Unifying Representations in Neural Models.
+</li>
+
 <li>
   C. Fontana, <b>G. A. D’Inverno</b>, N. Cappetti (2024). Diagnostic Enface Imaging of Retinal Vascularization: Topological Reconstruction and Intersection Identification. In: Carfagni, M., Furferi, R., Di Stefano, P., Governi, L., Gherardini, F. (eds) <em>Design Tools and Methods in Industrial Engineering III. ADM 2023.</em> Lecture Notes in Mechanical Engineering. Springer, Cham. [<a href="https://doi.org/10.1007/978-3-031-58094-9_5" target="_blank">https://doi.org/10.1007/978-3-031-58094-9_5</a>]
 </li>
