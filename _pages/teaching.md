@@ -15,7 +15,7 @@ author_profile: true
 
 ## Teaching assistance
 * a.y. 2025/2026
-    * <em>“Advanced Programming”</em>, Master Degree in Data Science and Scientific Computing, SISSA/ University of Trieste. Teaching assistance (14h.)
+    * <em>“Advanced Programming”</em>, Master Degree in Data Science and Scientific Computing, SISSA/ University of Trieste. Teaching assistance (12h.)
 * a.y. 2024/2025
     * <em>“Advanced Programming”</em>, Master Degree in Data Science and Scientific Computing, SISSA/ University of Trieste. Teaching assistance (14h.)
 * a.y. 2022/23
