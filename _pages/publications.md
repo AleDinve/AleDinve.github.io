@@ -15,7 +15,7 @@ author_profile: true
 <ul>
 
 <li>
-B. T. Corradini, B. Cullen, C. Gallegati, S. Marziali, <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli. Training Dynamics of GANs Through the Lens of Persistent Homology. 2025. <em>Under review</em>.
+B. T. Corradini, B. Cullen, C. Gallegati, S. Marziali, <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli. Training Dynamics of GANs Through the Lens of Persistent Homology. 2025. Neurocomputing, <em>Accepted/em>.
 </li>
 
 
