@@ -95,7 +95,7 @@ A. Falini, <b>G. A. D'Inverno</b>, M. L. Sampoli, F. Mazzia (2022). Splines Para
 <ul>
 
 <li>
-L. Zhou, D. Solombrino, D. Crisostomi, M. S. Bucarelli, <b>G. A. D’Inverno</b>, F. Silvestri & E. Rodolà. (2025). On Task Vectors and Gradients. In UniReps: 3rd Edition of the Workshop on Unifying Representations in Neural Models.
+L. Zhou, D. Solombrino, D. Crisostomi, M. S. Bucarelli, <b>G. A. D’Inverno</b>, F. Silvestri & E. Rodolà. (2025). On Task Vectors and Gradients. In UniReps: 3rd Edition of the Workshop on Unifying Representations in Neural Models. [<a href="https://openreview.net/pdf?id=747FYd9Oj9">https://openreview.net/pdf?id=747FYd9Oj9</a>]
 </li>
 
 <li>
