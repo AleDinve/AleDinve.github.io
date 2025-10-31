@@ -14,10 +14,6 @@ author_profile: true
 ## Submitted
 <ul>
 
-<li>
-B. T. Corradini, B. Cullen, C. Gallegati, S. Marziali, <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli. Training Dynamics of GANs Through the Lens of Persistent Homology. 2025. Neurocomputing, <em>Accepted</em>.
-</li>
-
 
 <li>
 <b>G. A. D'Inverno</b>, Z. Hu, L. Davy, M. Unser, G. Rozza, J. Dong. Revisiting Deep Information Propagation: Fractal Frontier and Finite-size Effects. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2508.03222" target="_blank">arXiv:2508.03222</a>]. <em>Under review</em>
@@ -48,6 +44,10 @@ L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Descri
 
 ### Peer-reviewed journals
 <ul>
+
+<li>
+B. T. Corradini, B. Cullen, C. Gallegati, S. Marziali, <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli (2025). Training Dynamics of GANs Through the Lens of Persistent Homology. <em>Neurocomputing</em>, <a href="https://doi.org/10.1016/j.neucom.2025.131976" target="_blank">https://doi.org/10.1016/j.neucom.2025.131976</a>.
+</li>
 
 <li>
 L. Desiderio, <b>G. A. D'Inverno</b>, M.L. Sampoli, A. Sestini (2025). Hierarchical matrices for 3D Helmholtz problems in the multi-patch IgA-BEM setting. <em>Engineering with Computers</em>, <a href="https://doi.org/10.1007/s00366-025-02144-w" target="_blank">https://doi.org/10.1007/s00366-025-02144-w</a>
