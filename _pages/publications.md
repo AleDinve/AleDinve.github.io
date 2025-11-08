@@ -46,15 +46,15 @@ L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Descri
 <ul>
 
 <li>
-B. T. Corradini, B. Cullen, C. Gallegati, S. Marziali, <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli (2025). Training Dynamics of GANs Through the Lens of Persistent Homology. <em>Neurocomputing</em>, <a href="https://doi.org/10.1016/j.neucom.2025.131976" target="_blank">https://doi.org/10.1016/j.neucom.2025.131976</a>.
+B. T. Corradini, B. Cullen, C. Gallegati, S. Marziali, <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli (2025). Training Dynamics of GANs Through the Lens of Persistent Homology. <em>Neurocomputing</em>, 131976. [<a href="https://doi.org/10.1016/j.neucom.2025.131976" target="_blank">Paper</a>].
 </li>
 
 <li>
-L. Desiderio, <b>G. A. D'Inverno</b>, M.L. Sampoli, A. Sestini (2025). Hierarchical matrices for 3D Helmholtz problems in the multi-patch IgA-BEM setting. <em>Engineering with Computers</em>, <a href="https://doi.org/10.1007/s00366-025-02144-w" target="_blank">https://doi.org/10.1007/s00366-025-02144-w</a>
+L. Desiderio, <b>G. A. D'Inverno</b>, M.L. Sampoli, A. Sestini (2025). Hierarchical matrices for 3D Helmholtz problems in the multi-patch IgA-BEM setting. <em>Engineering with Computers</em>, . [<a href="https://doi.org/10.1007/s00366-025-02144-w" target="_blank">Paper</a>]
 </li>
 
 <li>
-<b>G. A. D'Inverno</b>, Saeid Moradizadeh, Sajad Salavatidezfouli, Pasquale Claudio Africa, Gianluigi Rozza (2025). Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction . <em>Journal of Computational and Applied Mathematics</em>, 470, 116727,  <a href="https://doi.org/10.1016/j.cam.2025.116727" target="_blank">https://doi.org/10.1016/j.cam.2025.116727</a>
+<b>G. A. D'Inverno</b>, Saeid Moradizadeh, Sajad Salavatidezfouli, Pasquale Claudio Africa, Gianluigi Rozza (2025). Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction . <em>Journal of Computational and Applied Mathematics</em>, 470, 116727. [<a href="https://doi.org/10.1016/j.cam.2025.116727" target="_blank">https://doi.org/10.1016/j.cam.2025.116727</a>][<a href="https://github.com/AleDinve/aneurysm_gnn" target="_blank">Code</a>]
 </li>
 
 <li>
