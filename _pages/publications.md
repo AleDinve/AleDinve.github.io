@@ -54,7 +54,7 @@ L. Desiderio, <b>G. A. D'Inverno</b>, M.L. Sampoli, A. Sestini (2025). Hierarchi
 </li>
 
 <li>
-<b>G. A. D'Inverno</b>, Saeid Moradizadeh, Sajad Salavatidezfouli, Pasquale Claudio Africa, Gianluigi Rozza (2025). Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction . <em>Journal of Computational and Applied Mathematics</em>, 470, 116727. [<a href="https://doi.org/10.1016/j.cam.2025.116727" target="_blank">https://doi.org/10.1016/j.cam.2025.116727</a>][<a href="https://github.com/AleDinve/aneurysm_gnn" target="_blank">Code</a>]
+<b>G. A. D'Inverno</b>, Saeid Moradizadeh, Sajad Salavatidezfouli, Pasquale Claudio Africa, Gianluigi Rozza (2025). Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction . <em>Journal of Computational and Applied Mathematics</em>, 470, 116727. [<a href="https://doi.org/10.1016/j.cam.2025.116727" target="_blank">Paper</a>][<a href="https://github.com/AleDinve/aneurysm_gnn" target="_blank">Code</a>]
 </li>
 
 <li>
