@@ -25,6 +25,8 @@ Grosseto, Italy
 * 2016 – 2023 External adjoint violin player, Conservatorio “R. Franci”, Siena, Italy
 
 
+
+
 Food blog: Alessio Approves
 ======
 I'm storing my favourite recipes in a simple <a href="https://prickle-food-32f.notion.site/Alessio-Approves-1d406282cccb80f79f24d2a35e70aa71?pvs=73" target="_blank">food blog</a>
