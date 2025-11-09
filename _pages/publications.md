@@ -46,7 +46,7 @@ L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Descri
 <ul>
 
 <li>
-B. T. Corradini, B. Cullen, C. Gallegati, S. Marziali, <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli (2025). Training Dynamics of GANs Through the Lens of Persistent Homology. <em>Neurocomputing</em>, 661, 131976. [<a href="https://doi.org/10.1016/j.neucom.2025.131976" target="_blank">Paper</a>].
+B. T. Corradini, B. Cullen, C. Gallegati, S. Marziali, <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli (2025). Training Dynamics of GANs Through the Lens of Persistent Homology. <em>Neurocomputing</em>, 661, 131976. [<a href="https://doi.org/10.1016/j.neucom.2025.131976" target="_blank">Paper</a>][<a href="https://github.com/bcorrad/genfold25" target="_blank">Code</a>].
 </li>
 
 <li>
