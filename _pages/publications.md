@@ -86,7 +86,7 @@ A. Falini, <b>G. A. D'Inverno</b>, M. L. Sampoli, F. Mazzia (2022). Splines Para
 </li>
 
 <li>
- <b>G. A. D’Inverno</b>, S. Brunetti,  M. L. Sampoli, D. F. Muresanu, A. Rufa, M. Bianchini (2021). Visual Sequential Search Test Analysis: An Algorithmic Approach. <em>Mathematics</em>, 9(22), 2952. <a href="https://doi.org/10.3390/math9222952" target="_blank">Paper</a>
+ <b>G. A. D’Inverno</b>, S. Brunetti,  M. L. Sampoli, D. F. Muresanu, A. Rufa, M. Bianchini (2021). Visual Sequential Search Test Analysis: An Algorithmic Approach. <em>Mathematics</em>, 9(22), 2952. [<a href="https://doi.org/10.3390/math9222952" target="_blank">Paper</a>]
 </li>
 </ul>
 
