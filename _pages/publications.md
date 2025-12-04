@@ -66,7 +66,7 @@ L. Desiderio, <b>G. A. D'Inverno</b>, M.L. Sampoli, A. Sestini (2025). Hierarchi
 </li>
 
 <li>
-<b>G. A. D'Inverno</b>, J. Dong (2024). Comparison of Reservoir Computing topologies using the Recurrent Kernel approach.  <em>Neurocomputing</em>, 611, 128679. [<a href="https://doi.org/10.1016/j.neucom.2024.128679" target="_blank">Paper</a>]
+<b>G. A. D'Inverno</b>, J. Dong (2024). Comparison of Reservoir Computing topologies using the Recurrent Kernel approach.  <em>Neurocomputing</em>, 611, 128679. [<a href="https://doi.org/10.1016/j.neucom.2024.128679" target="_blank">Paper</a>][<a href="https://github.com/jon-dong/reservoir-frontier" target="_blank">Code</a>]
 </li>
 
 <li>
