@@ -37,7 +37,8 @@ author_profile: true
 * Co-supervision of 1 Master's degree thesis in Mathematics, Concordia University, Montréal (CA)
     * K. Ajavon (2024). Surrogate Models for diffusion on graphs: a high-dimensional polynomial approach
 
-* Co-supervision of 2 Master’s degree thesis in Applied Mathematics, University of Siena
+* Co-supervision of 3 Master’s degree thesis in Applied Mathematics, University of Siena
+   * D. Bagno (2025). Planar Hermite interpolation with prescribed arc length
    * H. C. Konan (2021). One Dimensional Model of Navier-Stokes Equations for the Arterial Blood Flow
    * F. Cenni (2020). Different classes of tensors for modeling rater agreement data
 
