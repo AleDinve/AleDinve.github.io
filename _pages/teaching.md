@@ -33,6 +33,9 @@ author_profile: true
     * <em>Invited lesson in Numerical Analysis</em>, Master degree in Applied Mathematics, University of Siena.
 
 ## Supervision
+* Co-supervision of 1 Master’s degree thesis in Data Science and Artificial Intelligence, University of Trieste & SISSA
+   * G. Masella (2026). Evaluating passing decision-making in professional football: An enhanced MPNN approach to Receiver Selection
+
 
 * Co-supervision of 1 Master's degree thesis in Mathematics, Concordia University, Montréal (CA)
     * K. Ajavon (2024). Surrogate Models for diffusion on graphs: a high-dimensional polynomial approach
