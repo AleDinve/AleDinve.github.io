@@ -15,7 +15,7 @@ author_profile: true
 <ul>
 
 <li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli. Planar Hermite quintic interpolants with prescribed arc length. 2026
-
+</li>
 <li>
 S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. & Laleg-Kirati. Physics-Informed Neural Estimation of State and Unknown Input in Autonomic Cardiac Dynamics with Left-Invertibility Constraints. 2026
 </li>
