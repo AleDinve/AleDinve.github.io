@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Extended version of the CV <a href="/files/Giuseppe_Alessio_DInverno_CV.pdf" target="_blank">here</a> (last update: January 16th, 2026)
+Extended version of the CV <a href="/files/Giuseppe_Alessio_DInverno_CV.pdf" target="_blank">here</a> (last update: January 29th, 2026)
 
 
 
