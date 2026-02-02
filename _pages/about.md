@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Postdoctoral Researcher in Statistical Learning Theory at the Laboratoire de Mathematiques d'Orsay (Université Paris-Saclay). 
+I'm a Postdoctoral Researcher in Statistical Learning Theory at the Laboratoire de Mathematiques d'Orsay (Université Paris-Saclay), in the research group coordinated by Prof. Claire Boyer. 
  
 I got my PhD in Information Engineering & Science at University of Siena in April 2024, under the supervision of Maria Lucia Sampoli, Franco Scarselli and Monica Bianchini. My PhD thesis focuses on the theoretical analysis of Graph Neural Networks, proving in specific their universal approximation properties and investigating their generalization capabilities.
 After my PhD, I've been a postdoctoral researcher in Numerical Analysis at SISSA, Trieste, in the Mathlab group guided by Prof. Gianluigi Rozza. 
