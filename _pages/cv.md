@@ -14,9 +14,9 @@ Extended version of the CV <a href="/files/Giuseppe_Alessio_DInverno_CV.pdf" tar
 
 Academic Appointments
 ======
-* February 2026 - present: Postdoctoral research fellow, 
+* Feb 2026 - present: Postdoctoral research fellow, 
   * LMO, Université Paris-Saclay, Paris, France
-* Feb 2024 - January 2026: Postdoctoral research fellow
+* Feb 2024 - Jan 2026: Postdoctoral research fellow
   * MathLab, Mathematics Area, SISSA, Trieste, Italy
 
 Education
