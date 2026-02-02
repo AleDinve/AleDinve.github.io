@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Postdoctoral Researcher in Numerical Analysis at SISSA, Trieste, Italy. I am a member of the MathLab group coordinated by prof. Gianluigi Rozza.
+I'm a Postdoctoral Researcher in Statistical Learning Theory at the Laboratoire de Mathematiques d'Orsay (Université Paris-Saclay). 
  
 I got my PhD in Information Engineering & Science at University of Siena in April 2024, under the supervision of Maria Lucia Sampoli, Franco Scarselli and Monica Bianchini. My PhD thesis focuses on the theoretical analysis of Graph Neural Networks, proving in specific their universal approximation properties and investigating their generalization capabilities.
+After my PhD, I've been a postdoctoral researcher in Numerical Analysis at SISSA, Trieste, in the Mathlab group guided by Prof. Gianluigi Rozza. 
 
 I'm also a musician, I got my B.A. in Violin in November 2015 under the mentoring of Luca Rinaldi. I currently play with several orchestras around the Europe. 
 

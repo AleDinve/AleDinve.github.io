@@ -12,6 +12,12 @@ redirect_from:
 Extended version of the CV <a href="/files/Giuseppe_Alessio_DInverno_CV.pdf" target="_blank">here</a> (last update: January 29th, 2026)
 
 
+Academic Appointments
+======
+* February 2026 - present: Postdoctoral research fellow, 
+  * LMO, Université Paris-Saclay, Paris, France
+* Feb 2024 - January 2026: Postdoctoral research fellow
+  * MathLab, Mathematics Area, SISSA, Trieste, Italy
 
 Education
 ======
@@ -19,11 +25,6 @@ Education
 * 2020 - M.S. in Applied Mathematics, University of Siena, Italy 
 * 2018 - B.S. in Mathematics, University of Siena, Italy
 * 2015 - B.A. in Violin, Conservatorio "R.Franci", Siena, Italy 
-
-Research experience
-=====
-* Feb 2024 - present: Postdoctoral research fellow
-  * MathLab, Mathematics Area, SISSA, Trieste, Italy
 
   
 International mobility
