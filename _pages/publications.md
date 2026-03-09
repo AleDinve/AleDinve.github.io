@@ -37,7 +37,7 @@ A. Poggi, <b>G. A. D'Inverno</b>, H. Brismar, O. Öktem, M. Barreau, K. Morozovs
 </li>
 
 <li>
-L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Description of Networks. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/pdf/2402.06768" target="_blank">arXiv</a>][<a href="https://github.com/MarzialiS/BMP-Network" target="_blank">Code</a>]. <em>Under review</em>
+L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Description of Networks. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/pdf/2402.06768" target="_blank">arXiv</a>][<a href="https://github.com/MarzialiS/BMP-Network" target="_blank">Code</a>]. Advances in Applied Mathematics, <em>Accepted</em>.
 </li>
 
 <!-- <li>
