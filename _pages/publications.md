@@ -12,6 +12,7 @@ author_profile: true
 
 
 ## Submitted
+
 <ul>
 
 <li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli. Planar Hermite quintic interpolants with prescribed arc length. 2026
@@ -117,6 +118,6 @@ Neural Models, volume 322 of Proceedings of Machine Learning Research, pages
 ## Doctoral thesis
 <ul>
 <li>
-<b>Giuseppe Alessio D'Inverno</b>. <em>Theoretical properties of Graph Neural Networks</em>. PhD thesis, University of Siena, 2024.  [<a href="https://hdl.handle.net/11365/1259294" target="_blank">url</a>]
+<em>Theoretical properties of Graph Neural Networks</em>. PhD thesis, University of Siena, 2024.  [<a href="https://hdl.handle.net/11365/1259294" target="_blank">url</a>]
 </li>
 </ul>
