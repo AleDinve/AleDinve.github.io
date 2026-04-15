@@ -21,11 +21,11 @@ S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. & Laleg-Kirati
 </li>
 
 <li>
-S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, & T. M. Laleg-Kirati . State and Unknown Input Estimation using a Left-Invertibility Constrained Neural Estimator in Delayed Autonomic Cardiac Dynamics. 2026.
+S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, & T. M. Laleg-Kirati . State and Unknown Input Estimation using a Left-Invertibility Constrained Neural Estimator in Delayed Autonomic Cardiac Dynamics. 2026, <em> Accepted at IFAC World Conference </em>.
 </li>
 
 <li>
-<b>G. A. D'Inverno</b>, Z. Hu, L. Davy, M. Unser, G. Rozza, J. Dong. Revisiting Deep Information Propagation: Fractal Frontier and Finite-size Effects. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2508.03222" target="_blank">arXiv</a>][<a href="https://github.com/jon-dong/fractal-deep-info-prop" target="_blank">Code</a>]. <em>Under review</em>
+<b>G. A. D'Inverno</b>, Z. Hu, L. Davy, M. Unser, G. Rozza, J. Dong. Revisiting Deep Information Propagation: Fractal Frontier and Finite-size Effects. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2508.03222" target="_blank">arXiv</a>][<a href="https://github.com/jon-dong/fractal-deep-info-prop" target="_blank">Code</a>]. Neural Networks, <em>Accepted</em>.
 </li>
 
 <li>
