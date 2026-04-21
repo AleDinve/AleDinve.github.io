@@ -52,7 +52,7 @@ A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini. Physi
 <ul>
 
 <li>
-<b>G. A. D'Inverno</b>, Z. Hu, L. Davy, M. Unser, G. Rozza, J. Dong (2026). Revisiting Deep Information Propagation: Fractal Frontier and Finite-size Effects. <em>Neural Networks</em>, 202, 109013. [<a href="https://doi.org/10.1016/j.neunet.2026.109013" target="_blank">arXiv</a>][<a href="https://github.com/jon-dong/fractal-deep-info-prop" target="_blank">Code</a>].
+<b>G. A. D'Inverno</b>, Z. Hu, L. Davy, M. Unser, G. Rozza, J. Dong (2026). Revisiting Deep Information Propagation: Fractal Frontier and Finite-size Effects. <em>Neural Networks</em>, 202, 109013. [<a href="https://doi.org/10.1016/j.neunet.2026.109013" target="_blank">Paper</a>][<a href="https://github.com/jon-dong/fractal-deep-info-prop" target="_blank">Code</a>].
 </li>
 
 <li>
