@@ -15,23 +15,20 @@ author_profile: true
 
 <ul>
 
-<li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli. Planar Hermite quintic interpolants with prescribed arc length. 2026
-</li>
-<li>
-S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. & Laleg-Kirati. Physics-Informed Neural Estimation of State and Unknown Input in Autonomic Cardiac Dynamics with Left-Invertibility Constraints. 2026, <em> Accepted at European Control Conference </em>.
+<li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli (2026). Planar Hermite quintic interpolants with prescribed arc length.  <em>Under review</em>
 </li>
 
 <li>
-S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, & T. M. Laleg-Kirati . State and Unknown Input Estimation using a Left-Invertibility Constrained Neural Estimator in Delayed Autonomic Cardiac Dynamics. 2026, <em> Accepted at IFAC World Conference </em>.
+S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. & Laleg-Kirati. Physics-Informed Neural Estimation of State and Unknown Input in Autonomic Cardiac Dynamics with Left-Invertibility Constraints. 2026, <em> Accepted at European Control Conference 2026 </em>.
 </li>
 
 <li>
-<b>G. A. D'Inverno</b>, Z. Hu, L. Davy, M. Unser, G. Rozza, J. Dong. Revisiting Deep Information Propagation: Fractal Frontier and Finite-size Effects. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2508.03222" target="_blank">arXiv</a>][<a href="https://github.com/jon-dong/fractal-deep-info-prop" target="_blank">Code</a>]. Neural Networks, <em>Accepted</em>.
+S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, & T. M. Laleg-Kirati . State and Unknown Input Estimation using a Left-Invertibility Constrained Neural Estimator in Delayed Autonomic Cardiac Dynamics. 2026, <em> Accepted at IFAC World Conference 2026 </em>.
 </li>
 
-<li>
+<!-- <li>
 A. Poggi, <b>G. A. D'Inverno</b>, H. Brismar, O. Öktem, M. Barreau, K. Morozovska. Data-driven multi-agent modelling of calcium interactions in cell culture: PINN vs Regularized Least-squares. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2505.20327" target="_blank">arXiv</a>]. <em>Under review</em>
-</li>
+</li> -->
 
 <li>
 <b>G. A. D'Inverno</b>, K. Ajavon, S. Brugiapaglia. Surrogate models for diffusion on graphs via sparse polynomials. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2502.06595" target="_blank">arXiv</a>][<a href="https://github.com/k-yoan/surrogate_graph_diffusion" target="_blank">Code</a>]. <em>Under review</em>.
@@ -53,6 +50,10 @@ A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini. Physi
 
 ### Peer-reviewed journals
 <ul>
+
+<li>
+<b>G. A. D'Inverno</b>, Z. Hu, L. Davy, M. Unser, G. Rozza, J. Dong (2026). Revisiting Deep Information Propagation: Fractal Frontier and Finite-size Effects. <em>Neural Networks</em>, 202, 109013. [<a href="https://doi.org/10.1016/j.neunet.2026.109013" target="_blank">arXiv</a>][<a href="https://github.com/jon-dong/fractal-deep-info-prop" target="_blank">Code</a>].
+</li>
 
 <li>
 B. T. Corradini, B. Cullen, C. Gallegati, S. Marziali, <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli (2025). Training Dynamics of GANs Through the Lens of Persistent Homology. <em>Neurocomputing</em>, 661, 131976. [<a href="https://doi.org/10.1016/j.neucom.2025.131976" target="_blank">Paper</a>][<a href="https://github.com/bcorrad/genfold25" target="_blank">Code</a>].
