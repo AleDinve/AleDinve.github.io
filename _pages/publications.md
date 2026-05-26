@@ -15,6 +15,9 @@ author_profile: true
 
 <ul>
 
+<li> G. Masella, <b>G. A. D'Inverno</b>, M. Goldsmith, G. Rozza (2026). Evaluating passing decision-making in professional football: An enhanced MPNN approach to Receiver Selection. [<a href="https://arxiv.org/abs/2605.25696" target="_blank">arXiv</a>]. <em>Under review</em>
+</li>
+
 <li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli (2026). Planar Hermite quintic interpolants with prescribed arc length.  <em>Under review</em>
 </li>
 
