@@ -34,7 +34,7 @@ A. Poggi, <b>G. A. D'Inverno</b>, H. Brismar, O. Öktem, M. Barreau, K. Morozovs
 </li> -->
 
 <li>
-<b>G. A. D'Inverno</b>, K. Ajavon, S. Brugiapaglia. Surrogate models for diffusion on graphs via sparse polynomials. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2502.06595" target="_blank">arXiv</a>][<a href="https://github.com/k-yoan/surrogate_graph_diffusion" target="_blank">Code</a>]. <em>Under review</em>.
+<b>G. A. D'Inverno</b>, K. Ajavon, S. Brugiapaglia. Surrogate models for diffusion on graphs via sparse polynomials. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2502.06595" target="_blank">arXiv</a>][<a href="https://github.com/k-yoan/surrogate_graph_diffusion" target="_blank">Code</a>]. Springer Journal of Scientific Computing, <em>In press</em>.
 </li>
 
 <li>
