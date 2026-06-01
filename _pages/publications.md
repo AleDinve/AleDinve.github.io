@@ -37,9 +37,7 @@ A. Poggi, <b>G. A. D'Inverno</b>, H. Brismar, O. Öktem, M. Barreau, K. Morozovs
 <b>G. A. D'Inverno</b>, K. Ajavon, S. Brugiapaglia. Surrogate models for diffusion on graphs via sparse polynomials. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2502.06595" target="_blank">arXiv</a>][<a href="https://github.com/k-yoan/surrogate_graph_diffusion" target="_blank">Code</a>]. Springer Journal of Scientific Computing, <em>In press</em>.
 </li>
 
-<li>
-L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Description of Networks. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/pdf/2402.06768" target="_blank">arXiv</a>][<a href="https://github.com/MarzialiS/BMP-Network" target="_blank">Code</a>]. Advances in Applied Mathematics, <em>In press</em>.
-</li>
+
 
 <!-- <li>
 A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini. Physics-Informed GNN for non-linear constrained optimization: PINCO a solver for the AC-optimal power flow. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/pdf/2410.04818" target="_blank"> arXiv:2410.04818</a>] (ICLR 2025, <em>Under review</em>)
@@ -53,6 +51,10 @@ A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini. Physi
 
 ### Peer-reviewed journals
 <ul>
+
+<li>
+L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali (2026). Product Of Tensors and Description of Networks. Advances in Applied Mathematics, 180, 103117. [<a href="https://doi.org/10.1016/j.aam.2026.103117" target="_blank">Paper</a>][<a href="https://github.com/MarzialiS/BMP-Network" target="_blank">Code</a>]. 
+</li>
 
 <li>
 <b>G. A. D'Inverno</b>, Z. Hu, L. Davy, M. Unser, G. Rozza, J. Dong (2026). Revisiting Deep Information Propagation: Fractal Frontier and Finite-size Effects. <em>Neural Networks</em>, 202, 109013. [<a href="https://doi.org/10.1016/j.neunet.2026.109013" target="_blank">Paper</a>][<a href="https://github.com/jon-dong/fractal-deep-info-prop" target="_blank">Code</a>].
