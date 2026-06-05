@@ -15,18 +15,26 @@ author_profile: true
 
 <ul>
 
+<li> 
+F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (2026). Constraint-driven Optimization and Parametrization of Industrial NURBS Geometries via Neural Deformation Field. <em>Under review</em>
+</li>
+
 <li> G. Masella, <b>G. A. D'Inverno</b>, M. Goldsmith, G. Rozza (2026). Evaluating passing decision-making in professional football: An enhanced MPNN approach to Receiver Selection. [<a href="https://arxiv.org/abs/2605.25696" target="_blank">arXiv</a>]. <em>Under review</em>
+</li>
+
+<li>
+S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). From Well-Posed Inversion to Learning Design: Physics-Informed Neural Estimation for Autonomic Regulation. <em>Under review </em>
 </li>
 
 <li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli (2026). Planar Hermite quintic interpolants with prescribed arc length.  <em>Under review</em>
 </li>
 
 <li>
-S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. & Laleg-Kirati. Physics-Informed Neural Estimation of State and Unknown Input in Autonomic Cardiac Dynamics with Left-Invertibility Constraints. 2026, <em> Accepted at European Control Conference 2026 </em>.
+S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati. Physics-Informed Neural Estimation of State and Unknown Input in Autonomic Cardiac Dynamics with Left-Invertibility Constraints. 2026, <em> Accepted at European Control Conference 2026 </em>.
 </li>
 
 <li>
-S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, & T. M. Laleg-Kirati . State and Unknown Input Estimation using a Left-Invertibility Constrained Neural Estimator in Delayed Autonomic Cardiac Dynamics. 2026, <em> Accepted at IFAC World Conference 2026 </em>.
+S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati. State and Unknown Input Estimation using a Left-Invertibility Constrained Neural Estimator in Delayed Autonomic Cardiac Dynamics. 2026, <em> Accepted at IFAC World Conference 2026 </em>.
 </li>
 
 <!-- <li>
