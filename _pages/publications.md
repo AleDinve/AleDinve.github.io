@@ -16,7 +16,7 @@ author_profile: true
 <ul>
 
 <li> 
-F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (2026). Constraint-driven Optimization and Parametrization of Industrial NURBS Geometries via Neural Deformation Field. <em>Under review</em>
+F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (2026). Constraint-driven Optimization and Parametrization of Industrial NURBS Geometries via Neural Deformation Field. [<a href="http://arxiv.org/abs/2606.07198" target="_blank">arXiv</a>]. <em>Under review</em>
 </li>
 
 <li> G. Masella, <b>G. A. D'Inverno</b>, M. Goldsmith, G. Rozza (2026). Evaluating passing decision-making in professional football: An enhanced MPNN approach to Receiver Selection. [<a href="https://arxiv.org/abs/2605.25696" target="_blank">arXiv</a>]. <em>Under review</em>
