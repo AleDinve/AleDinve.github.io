@@ -30,20 +30,17 @@ S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (
 </li>
 
 <li>
-S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati. Physics-Informed Neural Estimation of State and Unknown Input in Autonomic Cardiac Dynamics with Left-Invertibility Constraints. 2026, <em> Accepted at European Control Conference 2026 </em>.
+S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). Physics-Informed Neural Estimation of State and Unknown Input in Autonomic Cardiac Dynamics with Left-Invertibility Constraints. <em> Accepted at European Control Conference 2026 </em>.
 </li>
 
 <li>
-S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati. State and Unknown Input Estimation using a Left-Invertibility Constrained Neural Estimator in Delayed Autonomic Cardiac Dynamics. 2026, <em> Accepted at IFAC World Conference 2026 </em>.
+S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). State and Unknown Input Estimation using a Left-Invertibility Constrained Neural Estimator in Delayed Autonomic Cardiac Dynamics. <em> Accepted at IFAC World Conference 2026 </em>.
 </li>
 
 <!-- <li>
 A. Poggi, <b>G. A. D'Inverno</b>, H. Brismar, O. Öktem, M. Barreau, K. Morozovska. Data-driven multi-agent modelling of calcium interactions in cell culture: PINN vs Regularized Least-squares. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2505.20327" target="_blank">arXiv</a>]. <em>Under review</em>
 </li> -->
 
-<li>
-<b>G. A. D'Inverno</b>, K. Ajavon, S. Brugiapaglia. Surrogate models for diffusion on graphs via sparse polynomials. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2502.06595" target="_blank">arXiv</a>][<a href="https://github.com/k-yoan/surrogate_graph_diffusion" target="_blank">Code</a>]. Springer Journal of Scientific Computing, <em>In press</em>.
-</li>
 
 
 
@@ -61,6 +58,10 @@ A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini. Physi
 <ul>
 
 <li>
+<b>G. A. D'Inverno</b>, K. Ajavon, S. Brugiapaglia (2026). Surrogate models for Diffusion on Graphs via Sparse Polynomials. <em>Journal of Scientific Computing</em>, 108, 36. [<a href="https://doi.org/10.1007/s10915-026-03353-1" target="_blank">Paper</a>][<a href="https://github.com/k-yoan/surrogate_graph_diffusion" target="_blank">Code</a>].
+</li>
+
+<li>
 L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali (2026). Product Of Tensors and Description of Networks. Advances in Applied Mathematics, 180, 103117. [<a href="https://doi.org/10.1016/j.aam.2026.103117" target="_blank">Paper</a>][<a href="https://github.com/MarzialiS/BMP-Network" target="_blank">Code</a>]. 
 </li>
 
@@ -73,7 +74,7 @@ B. T. Corradini, B. Cullen, C. Gallegati, S. Marziali, <b>G. A. D’Inverno</b>,
 </li>
 
 <li>
-L. Desiderio, <b>G. A. D'Inverno</b>, M.L. Sampoli, A. Sestini (2025). Hierarchical matrices for 3D Helmholtz problems in the multi-patch IgA-BEM setting. <em>Engineering with Computers</em>, Volume 41, pages 2021–2042. [<a href="https://doi.org/10.1007/s00366-025-02144-w" target="_blank">Paper</a>]
+L. Desiderio, <b>G. A. D'Inverno</b>, M.L. Sampoli, A. Sestini (2025). Hierarchical matrices for 3D Helmholtz problems in the multi-patch IgA-BEM setting. <em>Engineering with Computers</em>, 41, 2021–2042. [<a href="https://doi.org/10.1007/s00366-025-02144-w" target="_blank">Paper</a>]
 </li>
 
 <li>
