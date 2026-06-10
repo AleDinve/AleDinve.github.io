@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Artistic CV: [<a href="/files/cv_art_english.pdf" target="_blank">English</a>][<a href="/files/cv_art_french.pdf" target="_blank">Français</a>]
+
 Music activity
 ======
 ## Teaching 
