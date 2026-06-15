@@ -30,6 +30,9 @@ My research interests span from the theoretical foundations of Deep Learning to 
 *
 
 <h2>Recent publications</h2>
+For the full list, please visit this [link](https://AleDinve.github.io/publications/)
+
+*
 
 
 <h2>About me</h2>
