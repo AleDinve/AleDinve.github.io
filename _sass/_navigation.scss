@@ -331,7 +331,7 @@
   }
 
   .active {
-    margin-left: -0.5em;
+    margin-left: 0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
     color: #fff;
@@ -347,7 +347,7 @@
 
 .nav__title {
   margin: 0;
-  padding: 0.5rem 1rem;
+  padding: 1rem 1rem;
   font-family: $sans-serif-narrow;
   font-size: $type-size-5;
   font-weight: bold;
@@ -431,11 +431,3 @@
   }
 }
 
-.greedy-nav .visible-links {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-nav.greedy-nav {
-  justify-content: center;
-}
