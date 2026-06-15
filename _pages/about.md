@@ -20,13 +20,25 @@ I'm also a musician, I got my B.A. in Violin in November 2015 under the mentorin
 
 My research interests span from the theoretical foundations of Deep Learning to Uncertainty Quantification for Scientific Computing.
 
+<h2>Latest news</h2>
+*
+*
+*
+*
+
+<h2>Recent publications</h2>
+
+
 <h2>About me</h2>
 
 I am a Christian, all my lifestyle is based on my faith. I enjoy playing a lot of instruments besides the violin: viola, piano, electric bass, guitar, ukulele, and last but not least, the mandolin. I really enjoy hiking; as a matter of fact, in love with the Swiss mountains!
 
+
 <h2>Contact info </h2>
 You can send me an email at:
-giuseppe-alessio dot dinverno at universite-paris-saclay dot fr
+_giuseppe-alessio [dot] dinverno at universite-paris-saclay [dot] fr_
+
+
 
 <!-- PROVAAAAA
 I am an <b>assistant professor (RtdA)</b> at the Department of Mathematics "Tullio Levi-Civita", University of Padua (Italy).
