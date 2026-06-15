@@ -9,16 +9,12 @@ redirect_from:
 ---
 
 I'm a Postdoctoral Researcher in Learning Theory at the Laboratoire de Mathematiques d'Orsay (Université Paris-Saclay), working with Prof. Claire Boyer. 
- 
-I got my PhD in Information Engineering & Science at University of Siena in April 2024, under the supervision of Maria Lucia Sampoli, Franco Scarselli and Monica Bianchini. My PhD thesis focuses on the theoretical analysis of Graph Neural Networks, proving in specific their universal approximation properties and investigating their generalization capabilities.
-
-After my PhD, I've been a postdoctoral researcher in Numerical Analysis at SISSA, Trieste, in the Mathlab group guided by Prof. Gianluigi Rozza. 
+Previously, I've been a postdoctoral researcher in Numerical Analysis at SISSA, Trieste, in the Mathlab group guided by Prof. Gianluigi Rozza. 
+I got my PhD in Information Engineering & Science at University of Siena in April 2024, under the supervision of Maria Lucia Sampoli, Franco Scarselli and Monica Bianchini. 
 
 I'm also a musician, I got my B.A. in Violin in November 2015 under the mentoring of Luca Rinaldi. I currently play with several orchestras around the Europe. 
 
-<h2>Research Interests</h2>
-
-My research interests span from the theoretical foundations of Deep Learning to Uncertainty Quantification for Scientific Computing.
+My research interests span from _theoretical foundations of Deep Learning_ to _Scientific Computing_.
 
 <h2>Upcoming events</h2>
 * _[September 14-18, 2026]_ We're organizing the <b>6th Young Applied Mathematics Conference</b> in Turin this year! More info on the <a href="https://www.yamc.it" target="_blank">YAMC website</a>
