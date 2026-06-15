@@ -33,7 +33,19 @@ My research interests span from the theoretical foundations of Deep Learning to 
 <h2>Recent publications</h2>
 For the full list, please visit this [link](https://AleDinve.github.io/publications/)
 
-*
+<ul>
+<li>
+<b>G. A. D'Inverno</b>, K. Ajavon, S. Brugiapaglia (2026). Surrogate models for Diffusion on Graphs via Sparse Polynomials. <em>Journal of Scientific Computing</em>, 108, 36. [<a href="https://doi.org/10.1007/s10915-026-03353-1" target="_blank">Paper</a>][<a href="https://github.com/k-yoan/surrogate_graph_diffusion" target="_blank">Code</a>].
+</li>
+
+<li>
+L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali (2026). Product Of Tensors and Description of Networks. Advances in Applied Mathematics, 180, 103117. [<a href="https://doi.org/10.1016/j.aam.2026.103117" target="_blank">Paper</a>][<a href="https://github.com/MarzialiS/BMP-Network" target="_blank">Code</a>]. 
+</li>
+
+<li>
+<b>G. A. D'Inverno</b>, Z. Hu, L. Davy, M. Unser, G. Rozza, J. Dong (2026). Revisiting Deep Information Propagation: Fractal Frontier and Finite-size Effects. <em>Neural Networks</em>, 202, 109013. [<a href="https://doi.org/10.1016/j.neunet.2026.109013" target="_blank">Paper</a>][<a href="https://github.com/jon-dong/fractal-deep-info-prop" target="_blank">Code</a>].
+</li>
+</ul>
 
 
 <h2>About me</h2>
