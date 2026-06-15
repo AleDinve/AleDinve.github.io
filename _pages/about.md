@@ -21,8 +21,8 @@ I'm also a musician, I got my B.A. in Violin in November 2015 under the mentorin
 My research interests span from the theoretical foundations of Deep Learning to Uncertainty Quantification for Scientific Computing.
 
 <h2>Upcoming events</h2>
-* _[September 14-18, 2026]_ We're organizing the <b>6th Young Applied Mathematics Conference</b> in Turin this year! More info at <a href="https://www.yamc.it" target="_blank">https://www.yamc.it</a>
-* _[July 13-17, 2026]_ I will attend the <b>LogML Summer School</b> @Imperial College of London as a mentor! Check out the project proposal on the <a href="https://www.logml.ai/projects.html" target="_blank">website</a>
+* _[September 14-18, 2026]_ We're organizing the <b>6th Young Applied Mathematics Conference</b> in Turin this year! More info on the <a href="https://www.yamc.it" target="_blank">YAMC website</a>
+* _[July 13-17, 2026]_ I will attend the <b>LogML Summer School</b> @Imperial College of London as a mentor! Check out the project proposal on the <a href="https://www.logml.ai/projects.html" target="_blank">LogML website</a>
 
 <h2>Latest news</h2>
 * _[June 05, 2026]_ I gave the talk "Sparse polynomial approximation for surrogate modeling on networks" for the Northernmost GraphML group @ UiT- The Arctic University of Norway! [<a href="https://www.linkedin.com/posts/giuseppe-alessio-d-inverno_it-was-an-honor-and-pleasure-to-give-a-seminar-activity-7468675688787697664-z7xG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwvodYBiHmmFxKGQUwb_M4EvZj0kKbfKy0" target="_blank">LinkedIn post</a>]
