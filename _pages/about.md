@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I'm a Postdoctoral Researcher in Learning Theory at the Laboratoire de Mathematiques d'Orsay (Université Paris-Saclay), working with Prof. Claire Boyer. 
+
 Previously, I've been a postdoctoral researcher in Numerical Analysis at SISSA, Trieste, in the Mathlab group guided by Prof. Gianluigi Rozza. 
 I got my PhD in Information Engineering & Science at University of Siena in April 2024, under the supervision of Maria Lucia Sampoli, Franco Scarselli and Monica Bianchini. 
 
