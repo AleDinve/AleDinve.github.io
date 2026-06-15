@@ -20,8 +20,11 @@ I'm also a musician, I got my B.A. in Violin in November 2015 under the mentorin
 
 My research interests span from the theoretical foundations of Deep Learning to Uncertainty Quantification for Scientific Computing.
 
+<h2>Upcoming events</h2>
+* _[September 14-18, 2026]_ We're organizing the <b>6th Young Applied Mathematics Conference</b> in Turin this year! More info at <a href=https://www.yamc.it target="_blank">https://www.yamc.it</a>
+
 <h2>Latest news</h2>
-* _[June 05, 2026]_ 
+* _[June 05, 2026]_ I gave the talk "Sparse polynomial approximation for surrogate modeling on networks" for the Northernmost GraphML group @ UiT- The Arctic University of Norway! [<a href=https://www.linkedin.com/posts/giuseppe-alessio-d-inverno_it-was-an-honor-and-pleasure-to-give-a-seminar-activity-7468675688787697664-z7xG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwvodYBiHmmFxKGQUwb_M4EvZj0kKbfKy0 target="_blank">LinkedIn post</a>]
 *
 *
 *
@@ -36,7 +39,7 @@ I am a Christian, all my lifestyle is based on my faith. I enjoy playing a lot o
 
 <h2>Contact info </h2>
 You can send me an email at:
-_giuseppe-alessio [dot] dinverno at universite-paris-saclay [dot] fr_
+_giuseppe [dash] alessio [dot] dinverno [at] universite [dash] paris [dash] saclay [dot] fr_
 
 
 
