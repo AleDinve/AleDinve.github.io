@@ -21,7 +21,7 @@ I'm also a musician, I got my B.A. in Violin in November 2015 under the mentorin
 My research interests span from the theoretical foundations of Deep Learning to Uncertainty Quantification for Scientific Computing.
 
 <h2>Latest news</h2>
-*
+* _[June 05, 2026]_ 
 *
 *
 *
