@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Giuseppe Alessio D'Inverno"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Giuseppe Alessio D'Inverno"
 description              : &description "My personal website"
