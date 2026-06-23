@@ -62,7 +62,7 @@ A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini. Physi
 </li>
 
 <li>
-L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali (2026). Product Of Tensors and Description of Networks. Advances in Applied Mathematics, 180, 103117. [<a href="https://doi.org/10.1016/j.aam.2026.103117" target="_blank">Paper</a>][<a href="https://github.com/MarzialiS/BMP-Network" target="_blank">Code</a>]. 
+L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali (2026). Product Of Tensors and Description of Networks. <em>Advances in Applied Mathematics</em>, 180, 103117. [<a href="https://doi.org/10.1016/j.aam.2026.103117" target="_blank">Paper</a>][<a href="https://github.com/MarzialiS/BMP-Network" target="_blank">Code</a>]. 
 </li>
 
 <li>
