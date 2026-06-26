@@ -16,7 +16,7 @@ author_profile: true
 <ul>
 
 <li>
-A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini. Physics-Informed Graph Neural Networks for Robust AC-Optimal Power Flow. <em>Under review</em>
+A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini (2026). Physics-Informed Graph Neural Networks for Robust AC-Optimal Power Flow. <em>Under review</em>
 </li>
 
 <li> 
