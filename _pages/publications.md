@@ -15,6 +15,10 @@ author_profile: true
 
 <ul>
 
+<li>
+A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini. Physics-Informed Graph Neural Networks for Robust AC-Optimal Power Flow. <em>Under review</em>
+</li>
+
 <li> 
 F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (2026). Constraint-driven Optimization and Parametrization of Industrial NURBS Geometries via Neural Deformation Field. [<a href="http://arxiv.org/abs/2606.07198" target="_blank">arXiv</a>]. <em>Under review</em>
 </li>
@@ -44,9 +48,7 @@ A. Poggi, <b>G. A. D'Inverno</b>, H. Brismar, O. Öktem, M. Barreau, K. Morozovs
 
 
 
-<!-- <li>
-A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini. Physics-Informed GNN for non-linear constrained optimization: PINCO a solver for the AC-optimal power flow. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/pdf/2410.04818" target="_blank"> arXiv:2410.04818</a>] (ICLR 2025, <em>Under review</em>)
-</li> -->
+
 
 </ul>
 
