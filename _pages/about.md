@@ -24,7 +24,7 @@ My research interests span from _theoretical foundations of Deep Learning_ to _S
 
 <h2>Latest news</h2>
 * _[July 13-17, 2026]_ I attended the <b>LogML Summer School</b> @Imperial College of London as a mentor! [<a href="https://www.linkedin.com/posts/giuseppe-alessio-d-inverno_it-has-definitely-been-intense-but-attending-activity-7484576176439631872-b8OU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwvodYBiHmmFxKGQUwb_M4EvZj0kKbfKy0" target="_blank">LinkedIn post</a>]
-* _[July 15, 2026]_ I joined the [<a href="https://sites.google.com/view/graph-learning-on-weds" target="_blank">Graph Learning On Wednesday (GLOW)</a>] reading group! 
+* _[July 15, 2026]_ I joined the organizing team of the [<a href="https://sites.google.com/view/graph-learning-on-weds" target="_blank">Graph Learning On Wednesday (GLOW)</a>] reading group! 
 * _[June 05, 2026]_ I gave the talk "Sparse polynomial approximation for surrogate modeling on networks" for the Northernmost GraphML group @ UiT- The Arctic University of Norway! [<a href="https://www.linkedin.com/posts/giuseppe-alessio-d-inverno_it-was-an-honor-and-pleasure-to-give-a-seminar-activity-7468675688787697664-z7xG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwvodYBiHmmFxKGQUwb_M4EvZj0kKbfKy0" target="_blank">LinkedIn post</a>]
 
 
