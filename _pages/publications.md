@@ -15,9 +15,9 @@ author_profile: true
 
 <ul>
 
-<li>
+<!-- <li>
 A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini, Priya Donti (2026). Physics-Informed Graph Neural Networks for Robust AC-Optimal Power Flow. <em>Under review</em>
-</li>
+</li> -->
 
 <li> 
 F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (2026). Constraint-driven Optimization and Parametrization of Industrial NURBS Geometries via Neural Deformation Field. [<a href="http://arxiv.org/abs/2606.07198" target="_blank">arXiv</a>]. <em>Under review</em>
@@ -30,7 +30,7 @@ F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (202
 S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). From Well-Posed Inversion to Learning Design: Physics-Informed Neural Estimation for Autonomic Regulation. <em>Under review </em>
 </li>
 
-<li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli (2026). Planar Hermite quintic interpolants with prescribed arc length.  <em>Under review</em>
+<li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli (2026). Planar Hermite quintic interpolants with prescribed arc length. Applied Mathematics and Computation, <em>Accepted</em>
 </li>
 
 <li>
