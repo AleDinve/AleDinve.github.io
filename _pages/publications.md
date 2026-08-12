@@ -27,7 +27,7 @@ F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (202
 </li>
 
 <li>
-S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). From Well-Posed Inversion to Learning Design: Physics-Informed Neural Estimation for Autonomic Regulation. <em>Under review </em>
+S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). From Well-Posed Inversion to Learning Design: Physics-Informed Neural Estimation for Autonomic Regulation. <em>Under review </em>. [<a href="https://arxiv.org/pdf/2606.03679" target="_blank">arXiv</a>].
 </li>
 
 
