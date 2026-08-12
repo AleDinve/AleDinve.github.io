@@ -30,9 +30,6 @@ F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (202
 S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). From Well-Posed Inversion to Learning Design: Physics-Informed Neural Estimation for Autonomic Regulation. <em>Under review </em>
 </li>
 
-<li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli (2026). Planar Hermite quintic interpolants with prescribed arc length. Applied Mathematics and Computation, <em>Accepted</em>
-</li>
-
 <li>
 S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). Physics-Informed Neural Estimation of State and Unknown Input in Autonomic Cardiac Dynamics with Left-Invertibility Constraints. <em> Accepted at European Control Conference 2026 </em>.
 </li>
@@ -58,6 +55,9 @@ A. Poggi, <b>G. A. D'Inverno</b>, H. Brismar, O. Öktem, M. Barreau, K. Morozovs
 
 ### Peer-reviewed journals
 <ul>
+
+<li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli (2026). Planar Hermite quintic interpolants with prescribed arc length. <em>Applied Mathematics</em> and Computation, 532, 130264. [<a href="https://doi.org/10.1016/j.amc.2026.130264">Paper</a>].
+</li>
 
 <li>
 <b>G. A. D'Inverno</b>, K. Ajavon, S. Brugiapaglia (2026). Surrogate models for Diffusion on Graphs via Sparse Polynomials. <em>Journal of Scientific Computing</em>, 108, 36. [<a href="https://doi.org/10.1007/s10915-026-03353-1" target="_blank">Paper</a>][<a href="https://github.com/k-yoan/surrogate_graph_diffusion" target="_blank">Code</a>].
