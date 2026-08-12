@@ -32,6 +32,10 @@ My research interests span from _theoretical foundations of Deep Learning_ to _S
 For the full list of publications, please visit this [link](https://AleDinve.github.io/publications/)
 
 <ul>
+<li>
+S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). Physics-Informed Neural Estimation of State and Unknown Input in Autonomic Cardiac Dynamics with Left-Invertibility Constraints. <em> 2026 European Control Conference (ECC)</em>, Reykjavík, Iceland, 2026, pp. 1795-1800. [<a href="https://ieeexplore.ieee.org/abstract/document/11625509" target="_blank">Paper</a>].
+</li>
+
 <li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli (2026). Planar Hermite quintic interpolants with prescribed arc length. <em>Applied Mathematics</em> and Computation, 532, 130264. [<a href="https://doi.org/10.1016/j.amc.2026.130264" target="_blank">Paper</a>].
 </li>
 <li>
@@ -41,6 +45,7 @@ For the full list of publications, please visit this [link](https://AleDinve.git
 <li>
 L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali (2026). Product Of Tensors and Description of Networks. Advances in Applied Mathematics, 180, 103117. [<a href="https://doi.org/10.1016/j.aam.2026.103117" target="_blank">Paper</a>][<a href="https://github.com/MarzialiS/BMP-Network" target="_blank">Code</a>]. 
 </li>
+
 
 <!-- <li>
 <b>G. A. D'Inverno</b>, Z. Hu, L. Davy, M. Unser, G. Rozza, J. Dong (2026). Revisiting Deep Information Propagation: Fractal Frontier and Finite-size Effects. <em>Neural Networks</em>, 202, 109013. [<a href="https://doi.org/10.1016/j.neunet.2026.109013" target="_blank">Paper</a>][<a href="https://github.com/jon-dong/fractal-deep-info-prop" target="_blank">Code</a>].

@@ -30,9 +30,7 @@ F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (202
 S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). From Well-Posed Inversion to Learning Design: Physics-Informed Neural Estimation for Autonomic Regulation. <em>Under review </em>
 </li>
 
-<li>
-S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). Physics-Informed Neural Estimation of State and Unknown Input in Autonomic Cardiac Dynamics with Left-Invertibility Constraints. <em> Accepted at European Control Conference 2026 </em>.
-</li>
+
 
 <li>
 S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). State and Unknown Input Estimation using a Left-Invertibility Constrained Neural Estimator in Delayed Autonomic Cardiac Dynamics. <em> Accepted at IFAC World Conference 2026 </em>.
@@ -119,6 +117,9 @@ A. Falini, <b>G. A. D'Inverno</b>, M. L. Sampoli, F. Mazzia (2022). Splines Para
 ### Conference Papers
 
 <ul>
+<li>
+S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). Physics-Informed Neural Estimation of State and Unknown Input in Autonomic Cardiac Dynamics with Left-Invertibility Constraints. <em> 2026 European Control Conference (ECC)</em>, Reykjavík, Iceland, 2026, pp. 1795-1800. [<a href="https://ieeexplore.ieee.org/abstract/document/11625509" target="_blank">Paper</a>].
+</li>
 
 <li>
 L. Zhou, D. Solombrino, D. Crisostomi, M. S. Bucarelli, <b>G. A. D’Inverno</b>, F. Silvestri & E. Rodolà. On Task Vectors and Gradients. Proceedings of
