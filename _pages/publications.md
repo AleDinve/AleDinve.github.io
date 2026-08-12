@@ -56,7 +56,7 @@ A. Poggi, <b>G. A. D'Inverno</b>, H. Brismar, O. Öktem, M. Barreau, K. Morozovs
 ### Peer-reviewed journals
 <ul>
 
-<li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli (2026). Planar Hermite quintic interpolants with prescribed arc length. <em>Applied Mathematics</em> and Computation, 532, 130264. [<a href="https://doi.org/10.1016/j.amc.2026.130264">Paper</a>].
+<li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli (2026). Planar Hermite quintic interpolants with prescribed arc length. <em>Applied Mathematics</em> and Computation, 532, 130264. [<a href="https://doi.org/10.1016/j.amc.2026.130264" target="_blank">Paper</a>].
 </li>
 
 <li>

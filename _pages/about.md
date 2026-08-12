@@ -32,7 +32,7 @@ My research interests span from _theoretical foundations of Deep Learning_ to _S
 For the full list of publications, please visit this [link](https://AleDinve.github.io/publications/)
 
 <ul>
-<li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli (2026). Planar Hermite quintic interpolants with prescribed arc length. <em>Applied Mathematics</em> and Computation, 532, 130264. [<a href="https://doi.org/10.1016/j.amc.2026.130264">Paper</a>].
+<li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli (2026). Planar Hermite quintic interpolants with prescribed arc length. <em>Applied Mathematics</em> and Computation, 532, 130264. [<a href="https://doi.org/10.1016/j.amc.2026.130264" target="_blank">Paper</a>].
 </li>
 <li>
 <b>G. A. D'Inverno</b>, K. Ajavon, S. Brugiapaglia (2026). Surrogate models for Diffusion on Graphs via Sparse Polynomials. <em>Journal of Scientific Computing</em>, 108, 36. [<a href="https://doi.org/10.1007/s10915-026-03353-1" target="_blank">Paper</a>][<a href="https://github.com/k-yoan/surrogate_graph_diffusion" target="_blank">Code</a>].
