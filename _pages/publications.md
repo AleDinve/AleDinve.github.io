@@ -15,12 +15,12 @@ author_profile: true
 
 <ul>
 
-<!-- <li>
+<li>
 A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini, Priya Donti (2026). Physics-Informed Graph Neural Networks for Robust AC-Optimal Power Flow. <em>Under review</em>
-</li> -->
+</li>
 
 <li> 
-F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (2026). Constraint-driven Optimization and Parametrization of Industrial NURBS Geometries via Neural Deformation Field. [<a href="http://arxiv.org/abs/2606.07198" target="_blank">arXiv</a>]. <em>Under review</em>
+F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (2026). Constraint-driven Optimization and Parametrization of Industrial NURBS Geometries via Neural Deformation Field. [<a href="http://arxiv.org/abs/2606.07198" target="_blank">arXiv</a>]. Computer Methods in Applied Mechanics and Engineering, <em>Accepted</em>.
 </li>
 
 <li> G. Masella, <b>G. A. D'Inverno</b>, M. Goldsmith, G. Rozza (2026). Evaluating passing decision-making in professional football: An enhanced MPNN approach to Receiver Selection. [<a href="https://arxiv.org/abs/2605.25696" target="_blank">arXiv</a>]. <em>Under review</em>
@@ -35,15 +35,6 @@ S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (
 <li>
 S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). State and Unknown Input Estimation using a Left-Invertibility Constrained Neural Estimator in Delayed Autonomic Cardiac Dynamics. <em> Accepted at IFAC World Conference 2026 </em>.
 </li>
-
-<!-- <li>
-A. Poggi, <b>G. A. D'Inverno</b>, H. Brismar, O. Öktem, M. Barreau, K. Morozovska. Data-driven multi-agent modelling of calcium interactions in cell culture: PINN vs Regularized Least-squares. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2505.20327" target="_blank">arXiv</a>]. <em>Under review</em>
-</li> -->
-
-
-
-
-
 
 </ul>
 

@@ -19,7 +19,7 @@ I'm also a musician, I got my B.A. in Violin in November 2015 under the mentorin
 My research interests span from _theoretical foundations of Deep Learning_ to _Scientific Computing_.
 
 <h2>Upcoming events</h2>
-* _[September 14-18, 2026]_ We're organizing the <b>6th Young Applied Mathematics Conference</b> in Turin this year! More info on the <a href="https://www.yamc.it" target="_blank">YAMC website</a>
+<!-- * _[September 14-18, 2026]_ We're organizing the <b>6th Young Applied Mathematics Conference</b> in Turin this year! More info on the <a href="https://www.yamc.it" target="_blank">YAMC website</a> -->
 
 
 <h2>Latest news</h2>
