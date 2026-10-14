@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Extended version of the CV <a href="/files/Giuseppe_Alessio_DInverno_CV.pdf" target="_blank">here</a> (last update: August 12th, 2026)
+Extended version of the CV <a href="/files/Giuseppe_Alessio_DInverno_CV.pdf" target="_blank">here</a> (last update: October 14th, 2026)
 
 
 Academic Appointments
@@ -59,14 +59,17 @@ Awards and fellowships
 
 Reviewer for
 =====
-* International Conference for Learning Representation (ICLR)
+* ICLR
+* NeurIPS
+* ICML
+* ECML
+* ECC
 * IEEE Transaction on Neural Network and Learning Systems
 * Nature Communications
 * Neural Networks
 * Applied Numerical Mathematics
 * Soft Computing
 * Neurocomputing
-* ECMLPKDD
 * Opuscula Mathematica
 
 
