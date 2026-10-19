@@ -19,18 +19,12 @@ author_profile: true
 A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini, Priya Donti (2026). Physics-Informed Graph Neural Networks for Robust AC-Optimal Power Flow. <em>Under review</em>
 </li>
 
-<li> 
-F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (2026). Constraint-driven Optimization and Parametrization of Industrial NURBS Geometries via Neural Deformation Field. [<a href="http://arxiv.org/abs/2606.07198" target="_blank">arXiv</a>]. Computer Methods in Applied Mechanics and Engineering, <em>Accepted</em>.
-</li>
-
 <li> G. Masella, <b>G. A. D'Inverno</b>, M. Goldsmith, G. Rozza (2026). Evaluating passing decision-making in professional football: An enhanced MPNN approach to Receiver Selection. [<a href="https://arxiv.org/abs/2605.25696" target="_blank">arXiv</a>]. <em>Under review</em>
 </li>
 
 <li>
 S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). From Well-Posed Inversion to Learning Design: Physics-Informed Neural Estimation for Autonomic Regulation. <em>Under review </em>. [<a href="https://arxiv.org/pdf/2606.03679" target="_blank">arXiv</a>].
 </li>
-
-
 
 <li>
 S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). State and Unknown Input Estimation using a Left-Invertibility Constrained Neural Estimator in Delayed Autonomic Cardiac Dynamics. <em> Accepted at IFAC World Conference 2026 </em>.
@@ -44,6 +38,10 @@ S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (
 
 ### Peer-reviewed journals
 <ul>
+
+<li> 
+F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (2026). Constraint-driven Optimization and Parametrization of Industrial NURBS Geometries via Neural Deformation Field. <em>Computer Methods in Applied Mechanics and Engineering</em>, 464, 119500 [<a href="https://doi.org/10.1016/j.cma.2026.119500" target="_blank">Paper</a>].
+</li>
 
 <li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli (2026). Planar Hermite quintic interpolants with prescribed arc length. <em>Applied Mathematics</em> and Computation, 532, 130264. [<a href="https://doi.org/10.1016/j.amc.2026.130264" target="_blank">Paper</a>].
 </li>

@@ -32,6 +32,11 @@ My research interests span from _theoretical foundations of Deep Learning_ to _S
 For the full list of publications, please visit this [link](https://AleDinve.github.io/publications/)
 
 <ul>
+
+<li> 
+F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (2026). Constraint-driven Optimization and Parametrization of Industrial NURBS Geometries via Neural Deformation Field. <em>Computer Methods in Applied Mechanics and Engineering</em>, 464, 119500 [<a href="https://doi.org/10.1016/j.cma.2026.119500" target="_blank">Paper</a>].
+</li>
+
 <li>
 S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (2026). Physics-Informed Neural Estimation of State and Unknown Input in Autonomic Cardiac Dynamics with Left-Invertibility Constraints. <em> 2026 European Control Conference (ECC)</em>, Reykjavík, Iceland, 2026, pp. 1795-1800. [<a href="https://ieeexplore.ieee.org/abstract/document/11625509" target="_blank">Paper</a>].
 </li>
