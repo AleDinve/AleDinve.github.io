@@ -34,7 +34,7 @@ For the full list of publications, please visit the section <a href="https://Ale
 <ul>
 
 <li> 
-F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (2026). Constraint-driven Optimization and Parametrization of Industrial NURBS Geometries via Neural Deformation Field. <em>Computer Methods in Applied Mechanics and Engineering</em>, 464, 119500 [<a href="https://doi.org/10.1016/j.cma.2026.119500" target="_blank">Paper</a>].
+F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (2026). Constraint-driven Optimization and Parametrization of Industrial NURBS Geometries via Neural Deformation Field. <em>Computer Methods in Applied Mechanics and Engineering</em>, 464, 119500. [<a href="https://doi.org/10.1016/j.cma.2026.119500" target="_blank">Paper</a>].
 </li>
 
 <li>

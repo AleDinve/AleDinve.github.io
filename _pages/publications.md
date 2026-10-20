@@ -40,7 +40,7 @@ S. N. Sadoun, <b>G. A. D'Inverno</b>, A. Boutin, F. Cottin, T. M. Laleg-Kirati (
 <ul>
 
 <li> 
-F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (2026). Constraint-driven Optimization and Parametrization of Industrial NURBS Geometries via Neural Deformation Field. <em>Computer Methods in Applied Mechanics and Engineering</em>, 464, 119500 [<a href="https://doi.org/10.1016/j.cma.2026.119500" target="_blank">Paper</a>].
+F. Tamburlin, G. Canali, <b>G. A. D'Inverno</b>, N. Demo, A. Mola, G. Rozza (2026). Constraint-driven Optimization and Parametrization of Industrial NURBS Geometries via Neural Deformation Field. <em>Computer Methods in Applied Mechanics and Engineering</em>, 464, 119500. [<a href="https://doi.org/10.1016/j.cma.2026.119500" target="_blank">Paper</a>].
 </li>
 
 <li> D. Bagno, <b>G. A. D'Inverno</b>, F. Pelosi, M. L. Sampoli (2026). Planar Hermite quintic interpolants with prescribed arc length. <em>Applied Mathematics</em> and Computation, 532, 130264. [<a href="https://doi.org/10.1016/j.amc.2026.130264" target="_blank">Paper</a>].
